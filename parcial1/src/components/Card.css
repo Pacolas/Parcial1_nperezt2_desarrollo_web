@@ -1,12 +1,12 @@
-/* Card.css */
+
 body{
     align-items: center;
 }
 .card-body {
     border: 1px solid #1e0d0d; 
-  border-radius: 8px; /* Añade bordes redondeados */
+  border-radius: 8px;
   margin-bottom: 20px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Añade una sombra suave */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   width: 402px;
 }
   
