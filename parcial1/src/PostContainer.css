@@ -1,0 +1,15 @@
+
+.post-container {
+    display: flex;
+    flex-wrap: wrap; /* Hace que los elementos pasen a la siguiente línea si no hay espacio */
+   align-self: center;
+   justify-content: center; /* Centra los elementos horizontalmente */
+   align-items: flex-start; /* Alinea los elementos en la parte superior del contenedor */
+  }
+
+  
+  .post-container .post {
+    width: calc(33.33% - 10px); /* Establece el ancho de cada post */
+    margin-bottom: 20px; /* Añade espacio entre los posts */
+  }
+  

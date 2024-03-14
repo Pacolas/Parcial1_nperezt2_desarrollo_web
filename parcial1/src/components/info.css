@@ -1,0 +1,55 @@
+
+
+.request-card{
+
+    width: 100%;
+    height: 25%;
+
+    color: #421273;
+
+    padding: 2%;
+ 
+  
+  }
+  .info-card{
+  
+    width: 25%;
+    height: 25%;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    padding: 2%;
+  
+  }
+  .img-container{
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    overflow: hidden;
+  
+  }
+  img{
+    width: 250px;
+    height: 250px;
+  }
+  .title{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font:  40px;
+    align-items: center;
+    justify-content: center;
+  }
+  .stars{
+    color: rgb(238, 246, 78);
+    height: 100%;
+    width: 18%;
+    min-width: 30px;
+    max-width: 150px;
+  
+  }
+  .stars-cont{
+    width: 100%  ;
+    height: 40%;
+    align-items: center;
+  }
+  
+  
