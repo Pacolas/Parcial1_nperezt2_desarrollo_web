@@ -1,0 +1,31 @@
+/* Card.css */
+body{
+    align-items: center;
+}
+.card-body {
+    border: 1px solid #1e0d0d; 
+  border-radius: 8px; /* Añade bordes redondeados */
+  margin-bottom: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Añade una sombra suave */
+  width: 402px;
+}
+  
+  
+  .card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    background:#d03f3f;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .card-text {
+    font-size: 1rem;
+    color: #666;
+  }
+  
+  .card-img {
+    width: 400px;
+    height: 200px;
+  }
+  
